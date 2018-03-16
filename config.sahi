@@ -1,0 +1,6 @@
+var $url = "http://qa.royall.com/rte/deploy/1079/23423-7R1/login.htm";
+var $user = "ddefrancesco1";
+var $password = "devin1";
+var $userEmail = "notreal@fakesite.lol";
+
+// url should never include query strings
